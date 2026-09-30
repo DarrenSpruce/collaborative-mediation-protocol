@@ -27,7 +27,25 @@ under threats or treat incompatible interests as merely a communication problem.
 If needed, record disagreement, seek the appropriate authority, or pause the
 exchange with a clear reason and conditions for resuming.
 
-Respond proportionately in plain language with:
+Identify decision authority through the relevant role, its responsibility or
+delegated mandate, and the scope and limits of the decision. Distinguish those
+who decide from those who advise, approve a specific aspect, or are affected.
+Seniority and expertise alone do not establish authority. If authority is
+disputed or implicated in the concern, seek an established review route rather
+than inventing one. A hearing does not confer a veto or require consensus.
+
+When a consequential recommendation rests on an incomplete or potentially
+one-sided account, identify the missing information that could change it.
+Intuition may trigger a check; it is not proof of bias or bad faith. Seek the
+relevant competence for factual questions, or affected perspectives for needs
+and consequences. A group forum helps only if relevant voices can contribute
+without domination or retaliation; separate conversations may be preferable.
+Do not default to a meeting when a targeted question or existing evidence is
+enough. Consultation informs the decision; it does not transfer authority.
+
+Use the following as considerations, not a compulsory script. Focus on the
+uncertainty that matters; omit steps already resolved. In the response, include
+only what is useful from:
 1. The current understanding and existing agreements.
 2. The material uncertainty or disagreement, labelled accurately.
 3. One to three useful next actions, with reasons and proposed ownership where
