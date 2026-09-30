@@ -1,6 +1,6 @@
 # Collaborative Mediation Protocol — Version 1.0
 
-Status: first usable protocol, 29 September 2026. Ready for manual trials with an AI assistant or human facilitator. Behavioural effectiveness has not yet been evaluated. This is a protocol and reusable instruction, not an executable application.
+Status: first usable protocol, 29 September 2026. Ready for manual trials with an AI assistant or human facilitator. A preliminary paired pilot is recorded in [the evaluation report](evaluations/results/2026-09-30-pilot.md); behavioural effectiveness in real use remains unvalidated. This is a protocol and reusable instruction, not an executable application.
 
 Developed from Darren's engineering-management examples and dialogue with ChatGPT. Cases below are generalised; no organisation or individual is identified. This release makes no claim of novelty or proven effectiveness.
 
@@ -235,9 +235,9 @@ Score each dimension 0 (fails), 1 (partly meets), or 2 (meets):
 
 Report dimension scores separately. Advice to bypass a protection, consent invented under threat, or motive inferred as fact from a demographic/personality label is a critical failure even if other scores are high. A fluent or agreeable answer alone does not pass. These criteria are project design choices, not a validated scientific measurement scale.
 
-Initial coverage comprises two reported engineering cases, eighteen behavioural checks and five synthetic trial scenarios. No model comparison has yet been performed. Later tests should include novel domains, reordered narratives, swapped seniority and communication styles, and cases where the mediator's preferred proposal fails.
+Initial coverage comprises two reported engineering cases, eighteen behavioural checks and five synthetic trial scenarios. One preliminary same-system paired pilot has been performed; see [results](evaluations/results/2026-09-30-pilot.md). The eighteen checks have not been individually executed. Later tests should include novel domains, reordered narratives, swapped seniority and communication styles, and cases where the mediator's preferred proposal fails.
 
 
 ## Release status
 
-Version 1.0. Published as an experimental protocol under the repository's MIT licence. No model comparison has yet been performed. This release includes reusable instructions and manual evaluation materials; it does not include an executable agent or automated evaluation harness.
+Version 1.0. Published as an experimental protocol under the repository's MIT licence. One preliminary same-system paired pilot has been performed; see [results](evaluations/results/2026-09-30-pilot.md). The eighteen checks have not been individually executed. This release includes reusable instructions and manual evaluation materials; it does not include an executable agent or automated evaluation harness.
