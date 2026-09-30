@@ -2,7 +2,7 @@
 
 An open protocol for humans and AI agents to clarify disagreements, uncover underlying needs, and find constructive next steps.
 
-**Version 1.0 · Experimental · MIT licensed**
+**Version 1.1 · Experimental · MIT licensed**
 
 Developed from Darren Spruce's engineering-management experience through dialogue with ChatGPT. The protocol makes practical judgement explicit so others can inspect, adapt and test it. A preliminary paired AI pilot is available; effectiveness in real use remains unvalidated.
 
@@ -32,6 +32,8 @@ For reproducible use, pin a Git commit rather than relying on the changing main 
 - Recognise when to observe real work, run an experiment or consult missing expertise.
 - Consider emotional and strategic meaning without assuming motives.
 - Avoid personality and cultural stereotypes, invented consent and forced consensus.
+- Identify authority through roles, responsibilities and decision scope.
+- Check consequential accounts through relevant expertise and affected perspectives.
 - Respect authority boundaries while allowing productive work to continue.
 - Revise the mediator's own interpretation when evidence changes.
 
@@ -39,16 +41,16 @@ For reproducible use, pin a Git commit rather than relying on the changing main 
 
 | Resource | Contents |
 | --- | --- |
-| [Protocol](protocol.md) | Fourteen principles, nine possible actions, communication guidance and an illustrative JSON output |
+| [Protocol](protocol.md) | Sixteen principles, nine possible actions, communication guidance and an illustrative JSON output |
 | [AI instruction](prompts/mediator.txt) | Standalone reusable text |
 | [Worked cases](examples/cases.md) | Sequence development and alarm-panel design |
-| [Evaluation guide](evaluations/README.md) | Eighteen behavioural checks, five synthetic scenarios and a review rubric |
+| [Evaluation guide](evaluations/README.md) | Twenty-four behavioural checks, five synthetic scenarios and a review rubric |
 | [Contributing](CONTRIBUTING.md) | How to submit cases, improvements and results |
 | [Licence](LICENSE) | MIT terms for reuse and adaptation |
 
 ## Status and limits
 
-This is a protocol release, not an executable application, an automated test harness or a validated mediation method. The JSON output is an example, not a formal schema. A [preliminary paired pilot](evaluations/results/2026-09-30-pilot.md) records responses with and without the protocol, anonymous AI review and substantial limitations. It does not establish general effectiveness.
+This is a protocol release, not an executable application, an automated test harness or a validated mediation method. The JSON output is an example, not a formal schema. A [preliminary paired pilot](evaluations/results/2026-09-30-pilot.md) records responses with and without the protocol, anonymous AI review and substantial limitations. It concerns v1.0 and does not evaluate the v1.1 additions or establish general effectiveness.
 
 The examples are generalised and identify no workplace participants. They illustrate possible next actions, not demonstrated successes. Conflicting interests, coercion and unequal power may require a decision or support outside mediation; agreement is not always the appropriate outcome.
 
