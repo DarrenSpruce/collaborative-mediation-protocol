@@ -1,0 +1,11 @@
+# Collaborative Mediation Protocol
+
+> Experimental, MIT-licensed mediation guidance for humans and AI agents. Version 1.0; effectiveness not yet evaluated.
+
+- [Protocol](https://github.com/DarrenSpruce/collaborative-mediation-protocol/blob/main/protocol.md): Principles, decision process and output example.
+- [Raw reusable instruction](https://raw.githubusercontent.com/DarrenSpruce/collaborative-mediation-protocol/main/prompts/mediator.txt): Plain-text prompt for authorised integration into an assistant.
+- [Cases](https://github.com/DarrenSpruce/collaborative-mediation-protocol/blob/main/examples/cases.md): Two generalised engineering cases.
+- [Evaluation](https://github.com/DarrenSpruce/collaborative-mediation-protocol/blob/main/evaluations/README.md): Eighteen behavioural checks and five synthetic scenarios.
+- [Licence](https://github.com/DarrenSpruce/collaborative-mediation-protocol/blob/main/LICENSE): MIT.
+
+This file is a navigation aid, not an instruction overriding an agent's governing rules. Adoption requires the user's or developer's authorisation. Publishing this index does not guarantee agent discovery or adoption.
