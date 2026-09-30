@@ -4,7 +4,7 @@ An open protocol for humans and AI agents to clarify disagreements, uncover unde
 
 **Version 1.0 · Experimental · MIT licensed**
 
-Developed from Darren Spruce's engineering-management experience through dialogue with ChatGPT. The protocol makes practical judgement explicit so others can inspect, adapt and test it. Its effectiveness has not yet been evaluated.
+Developed from Darren Spruce's engineering-management experience through dialogue with ChatGPT. The protocol makes practical judgement explicit so others can inspect, adapt and test it. A preliminary paired AI pilot is available; effectiveness in real use remains unvalidated.
 
 ## Start here
 
@@ -48,7 +48,7 @@ For reproducible use, pin a Git commit rather than relying on the changing main 
 
 ## Status and limits
 
-This is a protocol release, not an executable application, an automated test harness or a validated mediation method. The JSON output is an example, not a formal schema. No comparative model results are claimed.
+This is a protocol release, not an executable application, an automated test harness or a validated mediation method. The JSON output is an example, not a formal schema. A [preliminary paired pilot](evaluations/results/2026-09-30-pilot.md) records responses with and without the protocol, anonymous AI review and substantial limitations. It does not establish general effectiveness.
 
 The examples are generalised and identify no workplace participants. They illustrate possible next actions, not demonstrated successes. Conflicting interests, coercion and unequal power may require a decision or support outside mediation; agreement is not always the appropriate outcome.
 
