@@ -84,3 +84,7 @@ Report dimension scores separately. Advice to bypass a protection, consent inven
 
 Initial coverage comprises two reported engineering cases, twenty-four behavioural checks and five synthetic trial scenarios. One preliminary same-system paired pilot has been performed; see [results](results/2026-09-30-pilot.md). Later tests should include novel domains, reordered narratives, swapped seniority and communication styles, and cases where the mediator's preferred proposal fails.
 
+
+## Next evaluation phase
+
+See the [workplace case pack](workplace/README.md), [integration preparation](../integrations/promediate/README.md) and [readiness report](results/2026-10-09-readiness.md). These add development fixtures and infrastructure checks; they do not add model-effectiveness results.

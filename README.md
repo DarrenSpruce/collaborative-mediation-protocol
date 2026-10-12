@@ -50,7 +50,7 @@ For reproducible use, pin a Git commit rather than relying on the changing main 
 
 ## Status and limits
 
-This is a protocol release, not an executable application, an automated test harness or a validated mediation method. The JSON output is an example, not a formal schema. A [preliminary paired pilot](evaluations/results/2026-09-30-pilot.md) records responses with and without the protocol, anonymous AI review and substantial limitations. It concerns v1.0 and does not evaluate the v1.1 additions or establish general effectiveness.
+This is an experimental protocol, not a validated mediation method. An initial evaluation pack and offline-tested integration bridge are available; live comparative benchmarking remains outstanding. The JSON output is an example, not a formal schema. A [preliminary paired pilot](evaluations/results/2026-09-30-pilot.md) records responses with and without the protocol, anonymous AI review and substantial limitations. It concerns v1.0 and does not evaluate the v1.1 additions or establish general effectiveness.
 
 The examples are generalised and identify no workplace participants. They illustrate possible next actions, not demonstrated successes. Conflicting interests, coercion and unequal power may require a decision or support outside mediation; agreement is not always the appropriate outcome.
 
@@ -59,3 +59,9 @@ The examples are generalised and identify no workplace participants. They illust
 Try a scenario, report where the protocol helps or fails, and contribute counterexamples through issues or pull requests. Include cases where the mediator's preferred interpretation proves wrong. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Created by Darren Spruce with assistance from ChatGPT. See [LICENSE](LICENSE) for attribution and reuse terms.
+
+## Benchmark development
+
+- [Workplace case pack and comparison plan](evaluations/workplace/README.md): six synthetic two-turn development cases.
+- [ProMediate adapter preparation](integrations/promediate/README.md): experimental bridge and offline tests.
+- [9 October readiness report](evaluations/results/2026-10-09-readiness.md): inspected upstream blockers and outstanding live evaluation.
